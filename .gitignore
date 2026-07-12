@@ -20,3 +20,6 @@ labml_app.log
 /extensions
 /.nb_editor
 /.workspace.yaml
+0*.sh
+go.sh
+st_dt.txt
